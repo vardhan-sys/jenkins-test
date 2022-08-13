@@ -1,0 +1,1 @@
+java -jar jenkins-cli.jar -s http://3.86.195.120:8080/ -auth sricloud:PA%%w0rd* -webSocket safe-shutdown
